@@ -1,4 +1,4 @@
-FROM resin:armhf-alpine
+FROM resin/armhf-alpine
 
 LABEL maintainer="NGINX Docker Maintainers <docker-maint@nginx.com>"
 
